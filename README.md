@@ -6,6 +6,11 @@ Example React project using:
 * Typescript 3.x
 * SCSS
 
+This project was created using the Create React App command:
+
+    npx create-react-app react-typescript-scss-ts --scripts-version=react-scripts-scss-ts
+
+
 ## Installation
 
     npm install
