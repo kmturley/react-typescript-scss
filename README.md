@@ -5,6 +5,7 @@ Example React project using:
 * React 16.x
 * Typescript 3.x
 * SCSS
+* Material UI 1.x
 
 ## Installation
 
