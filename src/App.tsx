@@ -5,7 +5,7 @@ import withStyles, { WithStyles } from '@material-ui/core/styles/withStyles';
 import Typography from '@material-ui/core/Typography';
 
 import * as React from 'react';
-import './App.css';
+import './App.scss';
 import logo from './logo.svg';
 
 const styles = (theme: Theme) =>
