@@ -11,6 +11,7 @@ This project was created using the Create React App command:
 
     npx create-react-app react-typescript-scss-ts --scripts-version=react-scripts-scss-ts
 
+[View a demo](https://kmturley.github.io/react-typescript-scss/)
 
 ## Installation
 
