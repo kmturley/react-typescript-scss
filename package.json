@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.5.1",
+    "@material-ui/icons": "^2.0.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts-scss-ts": "2.17.1"
+    "react-scripts-scss-ts": "2.17.1",
+    "recharts": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
@@ -15,10 +17,12 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.6",
     "@types/jest": "^23.3.1",
     "@types/node": "^10.9.0",
     "@types/react": "^16.4.11",
     "@types/react-dom": "^16.0.7",
+    "@types/recharts": "^1.0.28",
     "typescript": "^3.0.1"
   }
 }
